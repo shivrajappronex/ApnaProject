@@ -1,0 +1,2 @@
+sample.txt ko open karke usme kuch bhi likh kar Save kar dein.
+Terminal (PowerShell) mein niche di gayi commands ek-ek karke chalayein:
